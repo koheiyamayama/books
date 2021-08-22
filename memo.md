@@ -113,3 +113,5 @@
 - PHP/Laravel
 - Python/Flask or Django
 - TypeScript/Vue/React
+- Go
+- Ruby/Rails
