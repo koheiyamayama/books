@@ -46,23 +46,24 @@
     - OSSのコードをリーディングする
     - OSSを変更する
     - OSSにPRを出す
+  - ネットワーク
   - OS
-    - https://www.amazon.co.jp/dp/B08Z3MNR9J/
-    - https://www.amazon.co.jp/dp/B0821XY1QJ/
-    - https://www.amazon.co.jp/dp/B079YJS1J1/
-    - https://www.amazon.co.jp/dp/B00KRB9U8K/
-    - https://www.amazon.co.jp/dp/B07YBQY75J/
-    - https://www.amazon.co.jp/dp/B00OCF5YUA/
+    - [ゼロからのOS自作入門 Kindle版](https://www.amazon.co.jp/dp/B08Z3MNR9J/)
+    - [はじめてのOSコードリーディング　――UNIX V6で学ぶカーネルのしくみ](https://www.amazon.co.jp/dp/B0821XY1QJ/)
+    - [［試して理解］Linuxのしくみ ～実験と図解で学ぶOSとハードウェアの基礎知識](https://www.amazon.co.jp/dp/B079YJS1J1/)
+    - [詳解UNIXプログラミング 第3版](https://www.amazon.co.jp/dp/B00KRB9U8K/)a
+    - [作って理解するOS x86系コンピュータを動かす理論と実装](https://www.amazon.co.jp/dp/B07YBQY75J/)
   - コンパイラ
-    - https://www.sigbus.info/compilerbook
-    - https://www.amazon.co.jp/dp/B06XZSH7Q9/
-    - https://www.amazon.co.jp/dp/4908686017/
-    - https://www.amazon.co.jp/dp/4873118220/
+    - [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
+    - [ふつうのコンパイラをつくろう　言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み](https://www.amazon.co.jp/dp/B06XZSH7Q9/)
+    - [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.amazon.co.jp/dp/4908686017/)
+    - [Go言語でつくるインタプリタ](https://www.amazon.co.jp/dp/4873118220/)
   - バーチャルマシーン
   - アセンブラ
     - https://www.amazon.co.jp/dp/B013JR60QS
   - 機械語
   - コンピュータ・アーキテクチャ
+    - [32ビットコンピュータをやさしく語る　はじめて読む486](https://www.amazon.co.jp/dp/B00OCF5YUA/)
   - ALU/メモリ/
   - ブール演算/順序論理
   - ブール演算
